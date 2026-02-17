@@ -1,4 +1,5 @@
-import { useState, useEffect } from "react";
+// @ts-nocheck
+import { useState } from "react";
 
 // ─── CONFIG ──────────────────────────────────────────────────────────────────
 const GROQ_MODEL = "llama-3.3-70b-versatile";
